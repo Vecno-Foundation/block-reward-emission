@@ -14,7 +14,7 @@ This project generates a PDF containing a **block reward emissions chart** and *
 Before running the project, ensure you have the following installed:
 
 - **Node.js** (v18.20.4 or later)
-- **npm**
+- **npm** (v7.0.0 or later)
 
 ## 🚀 Getting Started
 
