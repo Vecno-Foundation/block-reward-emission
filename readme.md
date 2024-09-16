@@ -54,5 +54,3 @@ Before running the project, ensure you have the following installed:
 - **[chartjs-node-canvas](https://www.npmjs.com/package/chartjs-node-canvas)**: For generating a Chart.js chart as an image.
 - **[pdf-lib](https://www.npmjs.com/package/pdf-lib)**: For generating and manipulating the PDF document.
 
-## 📂 Project Structure
-
